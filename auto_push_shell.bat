@@ -5,7 +5,7 @@ setlocal enabledelayedexpansion
 
 :: 设置远程仓库地址和分支
 set GITHUB_URL=https://github.com/Zhangxulang/Deep-Learning.git
-set BRANCH=master
+set BRANCH=main
 
 :: 自动拉取，避免冲突
 echo Pulling latest changes from remote branch %BRANCH%...
