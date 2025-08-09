@@ -120,7 +120,19 @@ subword-nmt工具比jieba支持语言更多
 
 
 
-LSTM做电影情感分类  subword分词
+LSTM做电影情感分类  
+
+### subword分词
+
+为了避免出现OOV问题
+
+分词算法：BPE、
+
+![image-20250801233807765](C:\Users\oyaZXL\AppData\Roaming\Typora\typora-user-images\image-20250801233807765.png)
+
+
+
+![image-20250801234127437](C:\Users\oyaZXL\AppData\Roaming\Typora\typora-user-images\image-20250801234127437.png)
 
 Seq2Seq 序列到序列
 
