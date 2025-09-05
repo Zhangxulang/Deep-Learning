@@ -106,6 +106,6 @@
 
 ## 参考资料
 
-- 论文：《Attention is All You Need》、《LoRA: Low-Rank Adaptation of Large Language Models》等。
+- 论文：[《Attention is All You Need》](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)、[《LoRA: Low-Rank Adaptation of Large Language Models》](https://arxiv.org/pdf/2106.09685v1/1000)。
 - 工具文档：[PyTorch 官方文档](https://pytorch.org/docs/)、[Hugging Face PEFT](https://huggingface.co/docs/peft)。
 - 数据集与平台：Kaggle 数据集、Hugging Face Model Hub。
